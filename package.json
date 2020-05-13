@@ -1,7 +1,7 @@
 {
 	"scripts": {
 		"test": "eslint *.js --fix && ava",
-		"format": "eslint *.js",
+		"format": "eslint *.js --fix",
 		"watch": "ava --watch"
 	},
 	"devDependencies": {
