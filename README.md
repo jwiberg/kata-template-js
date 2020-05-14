@@ -9,7 +9,7 @@ Template for code katas written in JavaScript.
 * Run "npm install"
 * Start coding (check source code for examples and commands below)
 
-### Basic commands (feel free to add your owns)
+### Basic commands (feel free to add your own)
     "scripts": {
 		"test": "eslint *.js --fix && ava",
 		"format": "eslint *.js --fix",
