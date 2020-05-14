@@ -3,7 +3,7 @@ Template for code katas written in JavaScript.
 
 ## How to use this?
 
-* Install https://nodejs.org/en/
+* Install https://nodejs.org/en/ (LTS/Current if possible)
 * run "npx degit https://github.com/jwiberg/kata-template-js.git" 
   * If that doesn't work clone or fork this repository
 * Run "npm install"
