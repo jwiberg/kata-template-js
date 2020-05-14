@@ -22,3 +22,6 @@ Template for code katas written in JavaScript.
   * format and check code with eslint
 * npm run watch 
   * run ava test runner in watch mode (auto "compile" and automatic test runs)
+
+## AVA test runner documentation
+* https://github.com/avajs/ava
